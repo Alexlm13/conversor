@@ -11,7 +11,7 @@ Aplicación de línea de comandos escrita en Python que convierte temperaturas e
 ## Obtener el proyecto
 
 ```
-git clone https://github.com/TU_USUARIO/conversor.git
+git clone https://github.com/Alexlm13/conversor.git
 cd conversor
 ```
 
