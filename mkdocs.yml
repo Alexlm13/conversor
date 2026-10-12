@@ -1,0 +1,11 @@
+site_name: Conversor de temperaturas
+site_description: Documentación del conversor de temperaturas en Python (Celsius, Fahrenheit y Kelvin)
+
+nav:
+  - Inicio: index.md
+  - Instalación: instalacion.md
+  - Uso: uso.md
+
+theme:
+  name: mkdocs
+  language: es
