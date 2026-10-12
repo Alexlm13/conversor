@@ -1,6 +1,6 @@
 # Conversor de temperaturas
 
-Aplicación de línea de comandos escrita en Python que convierte temperaturas entre **Celsius (C)**, **Fahrenheit (F)** y **Kelvin (K)**. No necesita librerías externas.
+Aplicación de línea de comandos escrita en Python que convierte temperaturas entre **Celsius (C)**, **Fahrenheit (F)** y **Kelvin (K)**. No necesita librerías externas
 
 ## Requisitos
 
